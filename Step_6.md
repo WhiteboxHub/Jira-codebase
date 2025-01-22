@@ -1,18 +1,27 @@
-# Step 6: Types of Stories
+# Step 7: Dashboards in Jira
 
-Understanding different types of stories can help you manage your project better.
+Dashboards in Jira provide an overview of the project's progress and help the team stay on track. They display essential metrics and allow for quick tracking of sprint and project performance.
 
-## 1. Functional Stories:
-- Focus on user-facing features (e.g., “As a user, I want to log in to my account so that I can access my dashboard”).
+## Key Components of Dashboards
 
-## 2. Non-Functional Stories:
-- These deal with system performance or technical aspects (e.g., “As a user, I want the website to load in under 3 seconds”).
+### 1. Burndown Chart
+- **Purpose**: Tracks the sprint progress by showing the amount of work completed vs remaining over time.
+- **Usage**: Helps the team understand how quickly they're burning through the work and if the sprint is on track to be completed on time.
 
-## 3. Technical Stories:
-- Focus on backend work, system architecture, or technical setup (e.g., “Set up the database schema for user accounts”).
+### 2. Sprint Report
+- **Purpose**: Displays the completed and pending tasks within the sprint.
+- **Usage**: Useful for assessing which tasks were finished and which remain unfinished at the end of the sprint.
 
-## 4. Defect Stories:
-- Bugs that need to be fixed (e.g., “Fix the issue where the login button doesn’t work”).
+### 3. Issue Statistics
+- **Purpose**: Provides a breakdown of open, in-progress, and resolved issues.
+- **Usage**: Gives the team an understanding of how many issues are being worked on, how many are resolved, and which are still in the backlog.
 
-## 5. Spike Stories:
-- Tasks to research or experiment with technologies or solutions (e.g., “Investigate third-party plugins for contact form integration”).
+
+# Managing Epics and Stories
+
+## 1. Track Epic Progress:
+- Track the overall progress of your Epic by viewing how many stories are completed.
+- Use the **Epic Burndown Chart** (available in Scrum) to visualize the completion rate of stories over time.
+
+## 2. Close Epic:
+- Once all user stories under the Epic are marked as **“Done”**, close the Epic by updating its status to **“Done”**.
