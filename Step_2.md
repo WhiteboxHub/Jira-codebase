@@ -1,4 +1,4 @@
-# Step 2: Create an Epic
+#  Create an Epic
 
 An Epic is a large feature or set of tasks that can be broken down into smaller user stories. In this step, we’ll create an Epic for the **Home Page** of the Whitebox Learning project.
 

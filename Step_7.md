@@ -1,4 +1,4 @@
-# Step 8: Review and Adjust
+#  Review and Adjust
 
 ## 1. Review Sprint/Backlog Regularly:
 - Regularly assess the status of the sprint and backlog.

@@ -1,4 +1,4 @@
-# Step 5: Daily Standups Guide
+#  Daily Standups Guide
 
 ## Purpose of Standups
 Daily standups are short meetings conducted to ensure team alignment and identify blockers. Each team member provides a quick update answering the following three questions:

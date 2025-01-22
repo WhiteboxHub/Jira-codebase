@@ -1,4 +1,4 @@
-# Step 3: Create User Stories Under the Epic
+#  Create User Stories Under the Epic
 
 User stories represent smaller, detailed pieces of work within an Epic. Here’s how to create stories under the Epic.
 

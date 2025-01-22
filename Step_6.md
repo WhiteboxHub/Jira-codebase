@@ -1,4 +1,4 @@
-# Step 7: Dashboards in Jira
+#Dashboards in Jira
 
 Dashboards in Jira provide an overview of the project's progress and help the team stay on track. They display essential metrics and allow for quick tracking of sprint and project performance.
 

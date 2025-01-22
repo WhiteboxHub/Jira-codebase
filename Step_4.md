@@ -1,4 +1,4 @@
-# Step 4: Prioritize Stories and Plan Sprint (if using Scrum)
+#  Prioritize Stories and Plan Sprint (if using Scrum)
 
 ## 1. Prioritize the Backlog:
 - In the **Backlog** section, drag and drop the user stories to reorder them according to priority (High, Medium, Low).
