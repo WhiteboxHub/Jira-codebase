@@ -2,6 +2,24 @@
 
 # Repository Overview
 
+# Jira Docker Setup with PostgreSQL
+
+  ## Steps:
+
+1. **Prepare Files:**
+   - **Dockerfile**: Configures Jira to connect to PostgreSQL.
+   - **docker-compose.yml**: Defines Jira and PostgreSQL services.
+
+2. **Run Containers:**
+   - Use `docker-compose up -d` to start both services.
+
+3. **Complete Setup:**
+   - Go to `http://localhost:8080` to finish the Jira setup and connect to PostgreSQL.
+
+4. **Create Admin Account:**
+   - Create an admin account during the setup.
+
+---
 ## 1. Create Project
 Set up the **Whitebox Learning (WBL)** Scrum project in Jira to manage tasks and track progress.
 
